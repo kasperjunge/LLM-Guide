@@ -12,4 +12,8 @@ Welcome to LLM-Guide, a comprehensive resource for training and hosting large la
 - [Cohere](https://cohere.ai/)
 
 ## Datasets
-- [Anthropic](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+- [Anthropic: HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+
+## People to Follow
+- [James Briggs](https://www.youtube.com/@jamesbriggs)
+- [Elvis Saravia](https://www.youtube.com/@elvissaravia)
