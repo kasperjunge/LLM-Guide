@@ -11,8 +11,8 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
 
 ## Providers 💾
-- [OpenAI](https://openai.com/)
-- [Cohere](https://cohere.ai/)
+- [OpenAI: Text Generation and Embeddings](https://openai.com/)
+- [Cohere: Classify, Generate, Embed](https://cohere.ai/)
 
 ## Datasets
 - [Anthropic: HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
