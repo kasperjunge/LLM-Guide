@@ -7,6 +7,7 @@ Welcome to LLM-Guide, a comprehensive resource for training and hosting large la
   - [Petals: 🌸 Run 100B+ language models at home, BitTorrent-style.](https://github.com/bigscience-workshop/petals)
   - [Open Assistant: Open source ChatGPT-like model](https://open-assistant.io)
   - [Together: A decentralized cloud for artificial intelligence. Open. Scalable. Together.](https://www.together.xyz/)
+  - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
 
 ## Providers 💾
 - [OpenAI](https://openai.com/)
