@@ -6,7 +6,7 @@ Welcome to LLM-Guide, a comprehensive resource for training and hosting large la
   - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
   - [Petals: 🌸 Run 100B+ language models at home, BitTorrent-style.](https://github.com/bigscience-workshop/petals)
   - [Open Assistant: Open source ChatGPT-like model](https://open-assistant.io)
-  - [Together: A decentralized cloud for artificial intelligence. Open. Scalable. Together.](https://www.together.xyz/)
+  - [Together: A decentralized cloud for artificial intelligence.](https://www.together.xyz/)
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
 
