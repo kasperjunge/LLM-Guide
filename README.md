@@ -1,6 +1,6 @@
 # LLM-Guide 🚀
 
-Welcome to LLM-Guide, a comprehensive resource for training and hosting large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in LLMs, including their training and deployment.
+Welcome to LLM-Guide, a resource for training, hosting and using large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in everything LLMs.
 
 ## Open Sources Projects 👩‍💻
   - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
