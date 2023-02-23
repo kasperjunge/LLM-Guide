@@ -8,6 +8,7 @@ Welcome to LLM-Guide, a comprehensive resource for training and hosting large la
   - [Open Assistant: Open source ChatGPT-like model](https://open-assistant.io)
   - [Together: A decentralized cloud for artificial intelligence. Open. Scalable. Together.](https://www.together.xyz/)
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
+  - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
 
 ## Providers 💾
 - [OpenAI](https://openai.com/)
