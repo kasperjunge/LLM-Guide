@@ -19,7 +19,8 @@ Welcome to LLM-Guide, a comprehensive resource for training and hosting large la
 - [LangChain Tutorial by Data Independent](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
 ## Jupyter Notebook Tutorials and Examples
-- [LangChain Agents](https://github.com/gkamradt/langchain-tutorials/blob/main/agents/Agents.ipynb)
+- [LangChain: Agents](https://github.com/gkamradt/langchain-tutorials/blob/main/agents/Agents.ipynb)
+- [LangChain: Custom Files Q&A](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Custom%20Files%20Question%20%26%20Answer.ipynb)
 
 ## People to Follow
 - [James Briggs](https://www.youtube.com/@jamesbriggs)
