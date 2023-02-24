@@ -12,7 +12,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 
 ## Models
 - [Bloom: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
-- [OPT-175B](https://forms.gle/BDB2i44QwCr2mCJN6)
+- [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 
 ## Providers 💾
 - [OpenAI: Text Generation and Embeddings](https://openai.com/)
