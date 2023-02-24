@@ -27,6 +27,6 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [LangChain: Custom Files Q&A](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Custom%20Files%20Question%20%26%20Answer.ipynb)
 
 ## People to Follow
-- James Briggs: [Youtube](https://www.youtube.com/@jamesbriggs), [Twitter](https://twitter.com/jamescalam), [LinkedIn(https://www.linkedin.com/in/jamescalam/)
+- James Briggs: [Youtube](https://www.youtube.com/@jamesbriggs), [Twitter](https://twitter.com/jamescalam), [LinkedIn](https://www.linkedin.com/in/jamescalam/)
 - [Elvis Saravia](https://www.youtube.com/@elvissaravia)
 - [Data Independent](https://www.youtube.com/@DataIndependent)
