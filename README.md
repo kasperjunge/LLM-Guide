@@ -16,8 +16,11 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 
 ## Providers 💻
-- [OpenAI: Text Generation and Embeddings](https://openai.com/)
-- [Cohere: Classify, Generate, Embed](https://cohere.ai/)
+- [OpenAI](https://openai.com/)
+- [Cohere](https://cohere.ai/)
+- [AI21labs](https://www.ai21.com/)
+- [GooseAI](https://goose.ai/)
+- [DeepInfra](https://deepinfra.com/)
 
 ## Tutorials 🎓
 - [LangChain Tutorial (Video)](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
