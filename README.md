@@ -15,7 +15,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 
-## Providers 💻
+## LLM Providers 💻
 - [OpenAI](https://openai.com/)
 - [Cohere](https://cohere.ai/)
 - [AI21labs](https://www.ai21.com/)
