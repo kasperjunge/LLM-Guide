@@ -19,14 +19,13 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [OpenAI: summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)
 
 ## YouTube Tutorials
-- [LangChain Tutorial by Data Independent](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+- [LangChain Tutorial](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [LangChain for Gen AI and LLMs](https://youtube.com/playlist?list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 
 ## Notebook Tutorials + Examples
-- [LangChain: Agents](https://github.com/gkamradt/langchain-tutorials/blob/main/agents/Agents.ipynb)
-- [LangChain: Custom Files Q&A](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Custom%20Files%20Question%20%26%20Answer.ipynb)
+- [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)
 
 ## People to Follow
 - James Briggs: [Youtube](https://www.youtube.com/@jamesbriggs), [Twitter](https://twitter.com/jamescalam), [LinkedIn](https://www.linkedin.com/in/jamescalam/), [GitHub](https://github.com/jamescalam)
-- Elvis Saravia]: [Youtube](https://www.youtube.com/@elvissaravia), [Twitter](https://twitter.com/omarsar0), [LinkedIn](https://www.linkedin.com/in/omarsar/), [GitHub](https://github.com/dair-ai)
+- Elvis Saravia: [Youtube](https://www.youtube.com/@elvissaravia), [Twitter](https://twitter.com/omarsar0), [LinkedIn](https://www.linkedin.com/in/omarsar/), [GitHub](https://github.com/dair-ai)
 - [Data Independent](https://www.youtube.com/@DataIndependent)
