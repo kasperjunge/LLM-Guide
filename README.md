@@ -29,6 +29,11 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - Elvis Saravia: [Youtube](https://www.youtube.com/@elvissaravia), [Twitter](https://twitter.com/omarsar0), [LinkedIn](https://www.linkedin.com/in/omarsar/), [GitHub](https://github.com/dair-ai)
 - [Data Independent](https://www.youtube.com/@DataIndependent)
 
+## Papers 📜
+- [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
+- [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
+- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
+
 ## Datasets 💾
 - [Anthropic: HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
 - [OpenAI: summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)
