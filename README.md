@@ -34,6 +34,8 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 
 ## Papers 📜
 - [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
+- [OPT: Open Pre-trained Transformer Language Models (OPT-175B](https://arxiv.org/abs/2205.01068)
+- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 - [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 - [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 
