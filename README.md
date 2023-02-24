@@ -20,6 +20,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 
 ## YouTube Tutorials
 - [LangChain Tutorial by Data Independent](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+- [LangChain for Gen AI and LLMs](https://youtube.com/playlist?list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 
 ## Notebook Tutorials + Examples
 - [LangChain: Agents](https://github.com/gkamradt/langchain-tutorials/blob/main/agents/Agents.ipynb)
