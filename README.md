@@ -10,6 +10,10 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
 
+## Models
+- [Bloom: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
+- [OPT-175B](https://forms.gle/BDB2i44QwCr2mCJN6)
+
 ## Providers 💾
 - [OpenAI: Text Generation and Embeddings](https://openai.com/)
 - [Cohere: Classify, Generate, Embed](https://cohere.ai/)
