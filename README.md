@@ -28,3 +28,4 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 ## People to Follow
 - [James Briggs](https://www.youtube.com/@jamesbriggs)
 - [Elvis Saravia](https://www.youtube.com/@elvissaravia)
+- [Data Independent](https://www.youtube.com/@DataIndependent)
