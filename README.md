@@ -16,6 +16,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 
 ## Datasets
 - [Anthropic: HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+- [OpenAI: summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)
 
 ## YouTube Tutorials
 - [LangChain Tutorial by Data Independent](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
