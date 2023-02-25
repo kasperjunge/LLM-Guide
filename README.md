@@ -27,6 +27,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [NLP Cloud](https://nlpcloud.com/)
 
 ## Papers 📜
+- [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
 - [OPT: Open Pre-trained Transformer Language Models (OPT-175B](https://arxiv.org/abs/2205.01068)
 - [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
