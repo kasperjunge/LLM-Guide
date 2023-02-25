@@ -6,6 +6,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [Bloom 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
 - [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
+- [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
@@ -28,6 +29,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 - [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 - [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
+- [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 
 ## Tutorials 🎓
 - [LangChain Tutorial (Video)](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
