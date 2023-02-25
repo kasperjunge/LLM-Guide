@@ -35,6 +35,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [LangChain Tutorial (Video)](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [LangChain for Gen AI and LLMs (Video)](https://youtube.com/playlist?list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [langchain-tutorials (Notebook)](https://github.com/gkamradt/langchain-tutorials)
+- [Let's build GPT: from scratch, in code, spelled out (Video)](https://youtu.be/kCc8FmEb1nY)
 
 ## Datasets 💾
 - [Anthropic: HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
