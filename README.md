@@ -7,6 +7,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
+- [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
@@ -35,6 +36,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 - [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
+- [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 
 ## Tutorials 🎓
 ### Video 🎥
