@@ -1,6 +1,6 @@
 # LLM-Guide 🚀
 
-Welcome to LLM-Guide, a resource for training, hosting and using large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in everything LLMs.
+Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in everything LLMs.
 
 ## Open-Source Models ፨
 - [Bloom 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
@@ -14,6 +14,7 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
   - [Petals: 🌸 Run 100B+ language models at home, BitTorrent-style.](https://github.com/bigscience-workshop/petals)
   - [Open Assistant: Open source ChatGPT-like model](https://open-assistant.io)
   - [Together: A decentralized cloud for artificial intelligence.](https://www.together.xyz/)
+  - [Runhouse](https://github.com/run-house/runhouse)
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
 
 ## LLM Providers 💻
@@ -22,6 +23,8 @@ Welcome to LLM-Guide, a resource for training, hosting and using large language 
 - [AI21labs](https://www.ai21.com/)
 - [GooseAI](https://goose.ai/)
 - [DeepInfra](https://deepinfra.com/)
+- [ForefronAI](https://www.forefront.ai/)
+- [NLP Cloud](https://nlpcloud.com/)
 
 ## Papers 📜
 - [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
