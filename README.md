@@ -38,6 +38,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 - [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ## Tutorials 🎓
 ### Video 🎥
