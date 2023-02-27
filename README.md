@@ -8,6 +8,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
 - [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
+- [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
