@@ -1,6 +1,6 @@
 # LLM-Guide 🚀
 
-Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in everything LLMs.
+Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs).
 
 ## Open-Source Models ፨
 - [Bloom 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
