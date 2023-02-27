@@ -2,8 +2,7 @@
 
 Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs). This repository is designed to provide a central hub for researchers, developers, and enthusiasts who are interested in the latest developments in everything LLMs.
 
-## Open-Source 
-### Models ፨
+## Open-Source Models ፨
 - [Bloom 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
 - [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
@@ -11,7 +10,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
 - [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B)
 
-### Open Sources Projects 👩‍💻
+## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
   - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
   - [Petals: 🌸 Run 100B+ language models at home, BitTorrent-style.](https://github.com/bigscience-workshop/petals)
