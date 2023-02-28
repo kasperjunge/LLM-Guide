@@ -2,7 +2,15 @@
 
 Welcome to LLM-Guide, a resource for pretraining, hosting, finetuning and developing with large language models (LLMs).
 
-## Developing wiht LLM's 🧑‍💻
+## Table of Contents
+- [Developing](#developing)
+- [Hosting](#hosting)
+- [Finetuning](#finetuning)
+- [Pretraining](#pretraining)
+- [Inspiration](#inspiration)
+
+
+## Developing 🧑‍💻
 Everything you need to know when developing applications using LLM's.
 ### LLM API's
 Table goes here.
@@ -14,7 +22,7 @@ Info goes here..
 Research goes here..
 
 
-## Hosting LLM's 🖥️
+## Hosting 🖥️
 Everything you need to know when hosting LLM's.
 ### Tools and Frameworks
 Info goes here..
@@ -24,7 +32,7 @@ Table goes here..
 Estimated cost from Apla goes here..
 
 
-## Finetuning LLM's 📈
+## Finetuning 📈
 Everything you need to know for finetuning LLM's.
 ### Open Source Projects
 - Open-Assistant
@@ -37,7 +45,7 @@ Datasets goes here..
 - Sparrow
 Research goes here..
 
-## Pre-training LLM's 🏋️‍♀️
+## Pretraining 🏋️‍♀️
 Everything you need to know for pretraining LLM's.
 ### Tools and Frameworks
 Info goes here..
