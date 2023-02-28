@@ -10,7 +10,7 @@ Welcome to LLM-Guide, a resource for pretraining, hosting, finetuning and develo
 - [Inspiration](#inspiration)
 
 
-## Developing 🧑‍💻
+## Developing
 Everything you need to know when developing applications using LLM's.
 ### LLM API's
 Table goes here.
@@ -22,7 +22,7 @@ Info goes here..
 Research goes here..
 
 
-## Hosting 🖥️
+## Hosting
 Everything you need to know when hosting LLM's.
 ### Tools and Frameworks
 Info goes here..
@@ -32,7 +32,7 @@ Table goes here..
 Estimated cost from Apla goes here..
 
 
-## Finetuning 📈
+## Finetuning
 Everything you need to know for finetuning LLM's.
 ### Open Source Projects
 - Open-Assistant
@@ -45,7 +45,7 @@ Datasets goes here..
 - Sparrow
 Research goes here..
 
-## Pretraining 🏋️‍♀️
+## Pretraining
 Everything you need to know for pretraining LLM's.
 ### Tools and Frameworks
 Info goes here..
