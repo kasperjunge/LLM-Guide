@@ -18,7 +18,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
   - [Together: A decentralized cloud for artificial intelligence.](https://www.together.xyz/)
   - [Runhouse](https://github.com/run-house/runhouse)
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
-  - [ChatLLaMA: LLaMA-based ChatGPT training process.](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
+  - [ChatLLaMA: LLaMA-based ChatGPT Training Process](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
 
 ## LLM Providers 💻
 - [OpenAI](https://openai.com/)
