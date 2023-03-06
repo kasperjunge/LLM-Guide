@@ -15,7 +15,6 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
-  - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
   - [Petals: 🌸 Run 100B+ language models at home, BitTorrent-style.](https://github.com/bigscience-workshop/petals)
   - [Open Assistant: Open source ChatGPT-like model](https://open-assistant.io)
   - [Together: A decentralized cloud for artificial intelligence.](https://www.together.xyz/)
@@ -36,6 +35,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [J1-Jumbo](https://docs.ai21.com/docs/complete-api)
 
 ## LLM Training Frameworks
+- [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
 - [DeepSpeed (Microsoft)](https://github.com/microsoft/DeepSpeed)
 - [Composer (MosaicML)](https://github.com/mosaicml/composer)
 - [Colassal-AI](https://github.com/hpcaitech/ColossalAI)
