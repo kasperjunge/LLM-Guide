@@ -32,6 +32,11 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 ## LLM APIs
 - [J1-Jumbo](https://docs.ai21.com/docs/complete-api)
 
+## LLM Training Frameworks
+- [DeepSpeed (Microsoft)](https://github.com/microsoft/DeepSpeed)
+- [Composer (MosaicML)](https://github.com/mosaicml/composer)
+- [Colassal-AI](https://github.com/hpcaitech/ColossalAI)
+- [BMTrain](https://github.com/OpenBMB/BMTrain)
 
 ## Papers 📜
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
@@ -49,6 +54,9 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 ## Other LLM Guides
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+## LLMOps Companies
+- [Human Loop](https://humanloop.com/)
 
 ## Tutorials 🎓
 ### Video 🎥
