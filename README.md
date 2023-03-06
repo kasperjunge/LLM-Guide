@@ -29,6 +29,10 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [ForefronAI](https://www.forefront.ai/)
 - [NLP Cloud](https://nlpcloud.com/)
 
+## LLM APIs
+- [J1-Jumbo](https://docs.ai21.com/docs/complete-api)
+
+
 ## Papers 📜
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
@@ -41,6 +45,10 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+## Other LLM Guides
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## Tutorials 🎓
 ### Video 🎥
