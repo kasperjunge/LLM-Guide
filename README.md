@@ -9,6 +9,9 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
 - [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
 - [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B)
+- [GLM-130B](https://github.com/THUDM/GLM-130B)
+- [YaLM 100B](https://github.com/yandex/YaLM-100B)
+- [UL2 20B](https://huggingface.co/google/ul2)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
