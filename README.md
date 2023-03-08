@@ -34,12 +34,13 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 ## LLM APIs
 - [J1-Jumbo](https://docs.ai21.com/docs/complete-api)
 
-## LLM Training Frameworks
+## LLM Training Frameworks and Tools
 - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
 - [DeepSpeed (Microsoft)](https://github.com/microsoft/DeepSpeed)
 - [Composer (MosaicML)](https://github.com/mosaicml/composer)
 - [Colassal-AI](https://github.com/hpcaitech/ColossalAI)
 - [BMTrain](https://github.com/OpenBMB/BMTrain)
+- [Flower](https://github.com/adap/flower)
 
 ## Papers 📜
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
