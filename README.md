@@ -58,7 +58,8 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 ## Other LLM Guides
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 ## LLMOps Companies
 - [Human Loop](https://humanloop.com/)
 
