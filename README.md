@@ -3,7 +3,10 @@
 Welcome to LLM-Guide, a resource for pretraining, hosting, finetuning and developing with large language models (LLMs).
 
 ### Text Generation API's
-Table goes here.
+| Model | Provider | Size | Price |
+| --- | --- | --- | --- |
+| text-davinci-003 | OpenAI | 175B | 0.02 / 1K tokens |
+| gpt-3.5-turbo	| OpenAI | 175B | $0.002 / 1K tokens |
 
 ### Text Embedding API's
 Table goes here.
