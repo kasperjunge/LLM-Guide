@@ -5,7 +5,7 @@ Welcome to LLM-Guide, a resource for pretraining, hosting, finetuning and develo
 ### Text Generation API's
 | Model | Provider | Size | Price |
 | --- | --- | --- | --- |
-| text-davinci-003 | OpenAI | 175B | 0.02$ / 1K tokens |
+| text-davinci-003 | OpenAI | 175B | 0.020$ / 1K tokens |
 | gpt-3.5-turbo	| OpenAI | 175B | $0.002 / 1K tokens |
 | j2-jumbo-instruct | AI21 | ? | 0.015$ / 1K tokens |
 | j2-jumbo | AI21 | ? | 0.015$ / 1K tokens |
