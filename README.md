@@ -2,17 +2,14 @@
 
 Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs).
 
-### Text Generation API's
-| Model | Provider | Size | Price |
+### Large Language Model API's
+| Model | Provider | Size | Price | Type | Link |
 | --- | --- | --- | --- |
-| text-davinci-003 | OpenAI | 175B | 0.020$ / 1K tokens |
-| gpt-3.5-turbo	| OpenAI | 175B | $0.002 / 1K tokens |
-| j2-jumbo-instruct | AI21 | ? | 0.015$ / 1K tokens |
-| j2-jumbo | AI21 | ? | 0.015$ / 1K tokens |
-| j2-grande-instruct | AI21 | ? | 0.01$ / 1K tokens |
-| j2-grande | AI21 | ? | 0.01$ / 1K tokens |
-| j2-large-instruct | AI21 | ? | 0.003$ / 1K tokens |
-| j2-large | AI21 | ? | 0.003$ / 1K tokens |
+| text-davinci-003 | OpenAI | 175B | 0.020$ / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
+| gpt-3.5-turbo	| OpenAI | 175B | $0.002 / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
+| j2-jumbo | AI21 | ? | 0.015$ / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
+| j2-grande | AI21 | ? | 0.01$ / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
+| j2-large | AI21 | ? | 0.003$ / 1K tokens | Text Generation |[link](https://www.ai21.com/studio/pricing) |
 
 
 ## Open-Source Models ፨
