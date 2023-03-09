@@ -9,6 +9,10 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 | gpt-3.5-turbo	| OpenAI | 175B | $0.002 / 1K tokens |
 | j2-jumbo-instruct | AI21 | ? | 0.015$ / 1K tokens |
 | j2-jumbo | AI21 | ? | 0.015$ / 1K tokens |
+| j2-grande-instruct | AI21 | ? | 0.01$ / 1K tokens |
+| j2-grande | AI21 | ? | 0.01$ / 1K tokens |
+| j2-large-instruct | AI21 | ? | 0.003$ / 1K tokens |
+| j2-large | AI21 | ? | 0.003$ / 1K tokens |
 
 
 ## Open-Source Models ፨
