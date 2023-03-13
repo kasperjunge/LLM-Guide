@@ -15,7 +15,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 | text-embedding-ada-002 | OpenAI | $0.0004 / 1K tokens | Text Embedding | [link](https://openai.com/pricing) |
 | j2-jumbo | AI21 | $0.0150 / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
 | j2-grande | AI21 | $0.0100 / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
-| j2-large | AI21 | $0.00300 / 1K tokens | Text Generation |[link]([https://www.ai21.com/studio/pricing](https://cohere.ai/pricing)) |
+| j2-large | AI21 | $0.00300 / 1K tokens | Text Generation |[link]([https://www.ai21.com/studio/pricing) |
 | default | Cohere | $2.5 per 1000 Generation Units* | Text Generation | [link](https://cohere.ai/pricing) |
 | default | Cohere | $1.0 per 1000 Embeddings | Text Embedding | [link](https://cohere.ai/pricing) |
 
@@ -25,6 +25,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
 - [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
+- [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B)
 - [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B)
 - [GLM-130B](https://github.com/THUDM/GLM-130B)
 - [YaLM 100B](https://github.com/yandex/YaLM-100B)
@@ -38,6 +39,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
   - [Runhouse](https://github.com/run-house/runhouse)
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
   - [ChatLLaMA: LLaMA-based ChatGPT Training Process](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
+  - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
 ## LLM Providers 💻
 - [OpenAI](https://openai.com/)
@@ -47,9 +49,6 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [DeepInfra](https://deepinfra.com/)
 - [ForefronAI](https://www.forefront.ai/)
 - [NLP Cloud](https://nlpcloud.com/)
-
-## LLM APIs
-- [J1-Jumbo](https://docs.ai21.com/docs/complete-api)
 
 ## LLM Training Frameworks and Tools
 - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
