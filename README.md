@@ -20,7 +20,8 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 | default | Cohere | $1.0 per 1000 Embeddings | Text Embedding | [link](https://cohere.ai/pricing) |
 
 ## Open-Source Models ፨
-- [Bloom 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
+- [BLOOM 🌸: BigScience Large Open-science Open-access Multilingual Language Model](https://huggingface.co/bigscience/bloom)
+- [BLOOMZ](https://huggingface.co/bigscience/bloomz)
 - [OPT-175B: Democratizing access to large-scale language](https://forms.gle/BDB2i44QwCr2mCJN6)
 - [GALACTICA 120B: trained on a large-scale scientific corpus](https://huggingface.co/facebook/galactica-120b)
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
@@ -30,6 +31,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GLM-130B](https://github.com/THUDM/GLM-130B)
 - [YaLM 100B](https://github.com/yandex/YaLM-100B)
 - [UL2 20B](https://huggingface.co/google/ul2)
+- [H3 2.7B](https://huggingface.co/danfu09/H3-2.7B)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
