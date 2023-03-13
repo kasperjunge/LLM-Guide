@@ -8,17 +8,17 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 | Luminous-supreme| Aleph Alpha  | $0.0.1750 / 1K tokens | 70B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
 | Luminous-extended| Aleph Alpha  | $0.0450 / 1K tokens | 30B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
 | Luminous-base | Aleph Alpha  | $0.0300 / 1K tokens | 13B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
-| j2-jumbo | AI21 | $0.0150 / 1K tokens | - | Text Generation | [link](https://www.ai21.com/studio/pricing) |
-| j2-grande | AI21 | $0.0100 / 1K tokens | - | Text Generation | [link](https://www.ai21.com/studio/pricing) |
-| j2-large | AI21 | $0.00300 / 1K tokens | - | Text Generation |[link]([https://www.ai21.com/studio/pricing) |
+| j2-jumbo | AI21 | $0.0150 / 1K tokens | 178B | Text Generation | [link](https://www.ai21.com/studio/pricing) |
+| j2-grande | AI21 | $0.0100 / 1K tokens | 17B | Text Generation | [link](https://www.ai21.com/studio/pricing) |
+| j2-large | AI21 | $0.00300 / 1K tokens | 7.5B | Text Generation |[link]([https://www.ai21.com/studio/pricing) |
 | default | Cohere | $2.5 per 1000 Generation Units* | - | Text Generation | [link](https://cohere.ai/pricing) |
-| gpt-3.5-turbo	| OpenAI  | $0.0020 / 1K tokens | - | Text Generation | [link](https://openai.com/pricing) |
-| text-davinci-003 | OpenAI | $0.0200 / 1K tokens | - | Text Generation | [link](https://openai.com/pricing) |
-| text-curie-001 | OpenAI | $0.0020 / 1K tokens | - | Text Generation | [link](https://openai.com/pricing) |
-| text-babbage-001 | OpenAI | $0.0005 / 1K tokens | - | Text Generation | [link](https://openai.com/pricing) |
+| gpt-3.5-turbo	| OpenAI  | $0.0020 / 1K tokens | 175B | Text Generation | [link](https://openai.com/pricing) |
+| text-davinci-003 | OpenAI | $0.0200 / 1K tokens | 175B | Text Generation | [link](https://openai.com/pricing) |
+| text-curie-001 | OpenAI | $0.0020 / 1K tokens | 6.7B | Text Generation | [link](https://openai.com/pricing) |
+| text-babbage-001 | OpenAI | $0.0005 / 1K tokens | 1.3B | Text Generation | [link](https://openai.com/pricing) |
 | text-ada-001 | OpenAI | $0.0004 / 1K tokens | - | Text Generation | [link](https://openai.com/pricing) |
 | code-davinci-002 | OpenAI | ? / 1K tokens | - | Code Generation | [link](https://openai.com/pricing) |
-| code-cushman-001 | OpenAI | ? / 1K tokens | - | Code Generation | [link](https://openai.com/pricing) |
+| code-cushman-001 | OpenAI | ? / 1K tokens | 12B | Code Generation | [link](https://openai.com/pricing) |
 | text-embedding-ada-002 | OpenAI | $0.0004 / 1K tokens | - | Text Embedding | [link](https://openai.com/pricing) |
 | default | Cohere | $1.0 per 1000 Embeddings | - | Text Embedding | [link](https://cohere.ai/pricing) |
 
