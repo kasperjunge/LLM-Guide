@@ -40,6 +40,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
   - [Chroma: the open source embedding database](https://github.com/chroma-core/chroma)
   - [ChatLLaMA: LLaMA-based ChatGPT Training Process](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
   - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+  - [HELM: Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm)
 
 ## LLM Providers 💻
 - [OpenAI](https://openai.com/)
