@@ -72,12 +72,14 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-## Other LLM Guides
+## LLM Guides
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
-## LLMOps Companies
+- [Using LLaMA with M1 Mac](https://dev.l1x.be/posts/2023/03/12/using-llama-with-m1-mac/)
+
+## LLMOps Services
 - [Human Loop](https://humanloop.com/)
 
 ## Tutorials 🎓
