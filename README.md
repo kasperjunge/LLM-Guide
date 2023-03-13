@@ -4,7 +4,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 
 ### APIs
 | Model | Provider | Price | Size | Type | Link |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Luminous-supreme| Aleph Alpha  | $0.0.1750 / 1K tokens | 70B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
 | Luminous-extended| Aleph Alpha  | $0.0450 / 1K tokens | 30B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
 | Luminous-base | Aleph Alpha  | $0.0300 / 1K tokens | 13B | Text Generation | [link](https://www.aleph-alpha.com/pricing) |
