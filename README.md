@@ -10,13 +10,13 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 | text-curie-001 | OpenAI | $0.0020 / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
 | text-babbage-001 | OpenAI | $0.0005 / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
 | text-ada-001 | OpenAI | $0.0004 / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
-| code-davinci-002 | OpenAI | ? / 1K tokens | Code Generation | [link](https://openai.com/pricing) |
-| code-cushman-001 | OpenAI | ? / 1K tokens | Code Generation | [link](https://openai.com/pricing) |
-| text-embedding-ada-002 | OpenAI | $0.0004 / 1K tokens | Text Embedding | [link](https://openai.com/pricing) |
 | j2-jumbo | AI21 | $0.0150 / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
 | j2-grande | AI21 | $0.0100 / 1K tokens | Text Generation | [link](https://www.ai21.com/studio/pricing) |
 | j2-large | AI21 | $0.00300 / 1K tokens | Text Generation |[link]([https://www.ai21.com/studio/pricing) |
 | default | Cohere | $2.5 per 1000 Generation Units* | Text Generation | [link](https://cohere.ai/pricing) |
+| code-davinci-002 | OpenAI | ? / 1K tokens | Code Generation | [link](https://openai.com/pricing) |
+| code-cushman-001 | OpenAI | ? / 1K tokens | Code Generation | [link](https://openai.com/pricing) |
+| text-embedding-ada-002 | OpenAI | $0.0004 / 1K tokens | Text Embedding | [link](https://openai.com/pricing) |
 | default | Cohere | $1.0 per 1000 Embeddings | Text Embedding | [link](https://cohere.ai/pricing) |
 
 ## Open-Source Models ፨
