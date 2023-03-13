@@ -63,6 +63,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Colassal-AI](https://github.com/hpcaitech/ColossalAI)
 - [BMTrain](https://github.com/OpenBMB/BMTrain)
 - [Flower](https://github.com/adap/flower)
+- [Adap](https://www.adap.com/en)
 
 ## Papers 📜
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
