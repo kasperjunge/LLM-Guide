@@ -46,7 +46,8 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
   - [ChatLLaMA: LLaMA-based ChatGPT Training Process](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
   - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
   - [HELM: Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm)
-  - [Guardrails: Guardrails is an open-source Python package for specifying structure and type, validating and correcting the outputs of large language models (LLMs).](https://github.com/shreyar/guardrails)
+  - [Guardrails](https://github.com/shreyar/guardrails)
+  - [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
 
 ## LLM Providers 💻
 - [OpenAI](https://openai.com/)
