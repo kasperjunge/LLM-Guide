@@ -2,7 +2,7 @@
 
 Welcome to LLM-Guide, a resource for training, hosting and developing with large language models (LLMs).
 
-### Large Language Model API's
+### APIs
 | Model | Provider | Price | Type | Link |
 | --- | --- | --- | --- | --- |
 | gpt-3.5-turbo	| OpenAI  | $0.0020 / 1K tokens | Text Generation | [link](https://openai.com/pricing) |
