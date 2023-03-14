@@ -35,6 +35,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [YaLM 100B](https://github.com/yandex/YaLM-100B)
 - [UL2 20B](https://huggingface.co/google/ul2)
 - [H3 2.7B](https://huggingface.co/danfu09/H3-2.7B)
+- [Pygmalion 6B](https://huggingface.co/PygmalionAI/pygmalion-6b)
 
 ## Open Sources Projects 👩‍💻
   - [LangChain: ⚡ Building applications with LLMs through composability ⚡️](https://github.com/hwchase17/langchain)
