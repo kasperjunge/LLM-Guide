@@ -49,6 +49,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
   - [HELM: Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm)
   - [Guardrails](https://github.com/shreyar/guardrails)
   - [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
+  - [EnergonAI: Large-scale model inference](https://github.com/hpcaitech/EnergonAI)
 
 ## LLM Providers 💻
 - [OpenAI](https://openai.com/)
