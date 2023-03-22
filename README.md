@@ -59,6 +59,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [DeepInfra](https://deepinfra.com/)
 - [ForefronAI](https://www.forefront.ai/)
 - [NLP Cloud](https://nlpcloud.com/)
+- [baseten](https://app.baseten.co/explore/)
 
 ## LLM Training Frameworks and Tools
 - [Alpa: Training and serving large-scale neural networks](https://github.com/alpa-projects/alpa)
