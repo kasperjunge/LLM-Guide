@@ -94,6 +94,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Human Loop](https://humanloop.com/)
 - [Steamship](https://www.steamship.com/)
 - [Promptly](https://trypromptly.com/)
+- [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library)
 
 ## Tutorials 🎓
 ### Video 🎥
