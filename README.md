@@ -100,6 +100,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [GradientJ](https://gradientj.com/)
 - [Promptbase](https://promptbase.com/)
 - [FlowGPT](https://flowgpt.com/)
+- [Vellum](https://www.vellum.ai/)
 
 ## Tutorials 🎓
 ### Video 🎥
