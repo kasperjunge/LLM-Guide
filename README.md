@@ -101,6 +101,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Promptbase](https://promptbase.com/)
 - [FlowGPT](https://flowgpt.com/)
 - [Vellum](https://www.vellum.ai/)
+- [Dust.ai](https://dustai.es/en/)
 
 ## Tutorials 🎓
 ### Video 🎥
