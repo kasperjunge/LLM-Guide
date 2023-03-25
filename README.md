@@ -90,7 +90,7 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [Using LLaMA with M1 Mac](https://dev.l1x.be/posts/2023/03/12/using-llama-with-m1-mac/)
 
-## LLMOps Services
+## LLMOps Tools and Services
 - [Human Loop](https://humanloop.com/)
 - [Steamship](https://www.steamship.com/)
 - [Promptly](https://trypromptly.com/)
