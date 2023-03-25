@@ -96,6 +96,8 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [Promptly](https://trypromptly.com/)
 - [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library)
 - [HoneyHive](https://honeyhive.ai/)
+- [Promptable](https://promptable.ai/)
+- [GradientJ](https://gradientj.com/)
 
 ## Tutorials 🎓
 ### Video 🎥
