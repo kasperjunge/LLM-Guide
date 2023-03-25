@@ -98,6 +98,8 @@ Welcome to LLM-Guide, a resource for training, hosting and developing with large
 - [HoneyHive](https://honeyhive.ai/)
 - [Promptable](https://promptable.ai/)
 - [GradientJ](https://gradientj.com/)
+- [Promptbase](https://promptbase.com/)
+- [FlowGPT](https://flowgpt.com/)
 
 ## Tutorials 🎓
 ### Video 🎥
